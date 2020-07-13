@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
+![](http://www.nyan.cat/cats/dub.gif)
+![](http://www.nyan.cat/cats/jazz.gif)
+
 - 🌱 I’m currently using `GoLang` `Python` `k8s`

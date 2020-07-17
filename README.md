@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sljeff.sljeff)
+[![HitCount](http://hits.dwyl.com/sljeff/sljeff.svg)](http://hits.dwyl.com/sljeff/sljeff)
 
 - 🌱 I’m currently using `GoLang` `Python` `k8s`

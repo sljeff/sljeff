@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 
 -->
 
+<!--
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=sljeff)
 
 [![HitCount](http://hits.dwyl.com/sljeff/sljeff.svg)](http://hits.dwyl.com/sljeff/sljeff)
 

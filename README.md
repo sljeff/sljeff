@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=sljeff)
 
-[![HitCount](http://hits.dwyl.com/sljeff/sljeff.svg)](http://hits.dwyl.com/sljeff/sljeff)
+![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
 - 🔭 I’m currently working on [shanbay](https://www.shanbay.com)
 - 🌱 I’m currently using `GoLang` `Python` `k8s`

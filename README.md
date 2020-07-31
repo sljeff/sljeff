@@ -1,14 +1,10 @@
-### Hi there 👋
+### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
-<!--
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
--->
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sljeff)
-
-![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
 #### Platform&Tools
 

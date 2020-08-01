@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 
 [![](https://img.shields.io/badge/-neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
-[![](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://neovim.io/)
+[![](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-electron-47848F?style=flat-square&logo=electron&logoColor=ffffff)](https://www.electronjs.org/)
 

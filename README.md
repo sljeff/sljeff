@@ -1,7 +1,7 @@
 ### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
-![](http://www.nyan.cat/cats/dub.gif)
-![](http://www.nyan.cat/cats/jazz.gif)
+![](http://www.nyan.cat/cats/mexinyan.gif)
+![](http://www.nyan.cat/cats/easter.gif)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sljeff)

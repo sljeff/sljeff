@@ -3,6 +3,8 @@
 ![](http://www.nyan.cat/cats/mexinyan.gif)
 ![](http://www.nyan.cat/cats/easter.gif)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on [shanbay](https://www.shanbay.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=sljeff)

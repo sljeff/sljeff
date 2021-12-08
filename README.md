@@ -33,7 +33,7 @@ tmux    🕓 25m    ▌░░░░░░░░░░░░░░░░░░░
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/monterey/)>)
+[![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/monterey/)
 [![](https://img.shields.io/badge/Ubuntu-18.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 

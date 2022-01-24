@@ -1,6 +1,7 @@
 ### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
-- 🔭 I’m currently working on [shanbay](https://www.shanbay.com)
+- 🔭 I am currently looking for a job
+- I used to work at [shanbay](https://www.shanbay.com)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 

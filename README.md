@@ -1,6 +1,5 @@
 ### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
-- 🔭 I am currently looking for a job
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 

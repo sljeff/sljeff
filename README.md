@@ -1,6 +1,6 @@
 ### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 
-- 🔭 I am currently looking for a job
+- 🔭 I am currently working at [RSS3](https://rss3.io/)
 - I used to work at [shanbay](https://www.shanbay.com) (2017-2022)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)

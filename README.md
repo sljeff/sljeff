@@ -15,8 +15,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-sshconfig 🕓 6m ███████████████████████▉░░░░░░░░ 74.8%
-YAML      🕓 2m ████████░░░░░░░░░░░░░░░░░░░░░░░░ 25.1%
+YAML 🕓 0s █████████████████████████████████████100.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->

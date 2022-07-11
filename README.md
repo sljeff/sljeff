@@ -15,7 +15,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go       🕓 5h2m  ██████████████████▍░░░░░░░░░░░ 61.6%
+Go       🕓 5h5m  ██████████████████▌░░░░░░░░░░░ 61.7%
 YAML     🕓 2h28m █████████░░░░░░░░░░░░░░░░░░░░░ 30.1%
 Makefile 🕓 32m   █▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.5%
 Lua      🕓 7m    ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.5%

@@ -31,7 +31,7 @@ Still Gathering Statistics...
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/monterey/)
-[![](https://img.shields.io/badge/Ubuntu-18.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Arch%20Linux-WSL-1793d1?style=flat-square&logo=ArchLinux)](https://github.com/yuk7/ArchWSL)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 
 [![](https://img.shields.io/badge/-neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)

@@ -17,9 +17,12 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+YAML       6 hrs 13 mins  ████████████▎░░░░░░░░  58.5%
+Docker     1 hr 2 mins    ██░░░░░░░░░░░░░░░░░░░   9.8%
+Caddyfile  46 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Go         42 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Python     30 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 </td>

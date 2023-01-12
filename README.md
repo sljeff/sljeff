@@ -9,7 +9,7 @@
 <tr>
 <td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api?username=sljeff&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc)
+![](https://github-readme-stats-indol-eight.vercel.app/api?username=sljeff&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc)
 
 </td>
 <td valign="top" width="50%">

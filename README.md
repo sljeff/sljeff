@@ -15,11 +15,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-YAML       5 hrs 12 mins  ████████████▏░░░░░░░░  58.1%
-Go         2 hrs          ████▋░░░░░░░░░░░░░░░░  22.4%
-Elixir     40 mins        █▌░░░░░░░░░░░░░░░░░░░   7.6%
-Docker     22 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-Bash       12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+YAML       2 hrs 34 mins  ███████████░░░░░░░░░░  52.4%
+Go         2 hrs          ████████▌░░░░░░░░░░░░  40.9%
+Other      8 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+JavaScript 6 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+Docker     3 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 <!-- waka-box end -->
 

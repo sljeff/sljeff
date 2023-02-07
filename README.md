@@ -33,26 +33,26 @@ XML        1 min          ░░░░░░░░░░░░░░░░░░
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/monterey/)
-[![](https://img.shields.io/badge/Arch%20Linux-WSL-1793d1?style=flat-square&logo=ArchLinux)](https://github.com/yuk7/ArchWSL)
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=for-the-badge&logo=Apple)](https://www.apple.com/macos/monterey/)
+[![](https://img.shields.io/badge/Arch%20Linux-WSL-1793d1?style=for-the-badge&logo=ArchLinux)](https://github.com/yuk7/ArchWSL)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 
-[![](https://img.shields.io/badge/-neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
-[![](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-neovim-57A143?style=for-the-badge&logo=neovim&logoColor=ffffff)](https://neovim.io/)
+[![](https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 </td>
 <td valign="top" width="50%">
 
 #### Console&Game
 
-[![](https://img.shields.io/badge/-PlayStation%205-eeeeee?style=flat-square&logo=playstation5&logoColor=000000)](https://psnine.com/psnid/sljeff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/kindjeff)
+[![](https://img.shields.io/badge/-PlayStation%205-eeeeee?style=for-the-badge&logo=playstation5&logoColor=000000)](https://psnine.com/psnid/sljeff)
+[![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/kindjeff)
 
 #### Languages
 
-[![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
 
 </td>
 </tr>

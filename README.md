@@ -15,11 +15,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-YAML       10 hrs 5 mins  ██████████████▎░░░░░░  67.9%
-sshconfig  54 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Bash       38 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Caddyfile  31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Nginx c... 31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+YAML       8 hrs 14 mins  ████████████▍░░░░░░░░  59.4%
+sshconfig  54 mins        █▍░░░░░░░░░░░░░░░░░░░   6.5%
+Terraform  46 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Other      44 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Go         40 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
 ```
 <!-- waka-box end -->
 

@@ -1,4 +1,7 @@
-### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
+### Hi there 👋
+
+![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
+[![wakatime](https://wakatime.com/badge/user/35839813-7912-4d09-bf67-de224ef087a1.svg)](https://wakatime.com/@35839813-7912-4d09-bf67-de224ef087a1)
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)

@@ -3,6 +3,9 @@
 ![ViewCount](https://views.whatilearened.today/views/github/sljeff/sljeff.svg)
 [![wakatime](https://wakatime.com/badge/user/35839813-7912-4d09-bf67-de224ef087a1.svg)](https://wakatime.com/@35839813-7912-4d09-bf67-de224ef087a1)
 
+![](http://www.nyan.cat/cats/dub.gif)
+![](http://www.nyan.cat/cats/jazz.gif)
+
 - 🔭 I am currently working at [RSS3](https://rss3.io/)
 - I used to work at [shanbay](https://www.shanbay.com) (2017-2022)
 

@@ -15,7 +15,7 @@
 <tr>
 <td valign="top" width="50%">
 
-![](https://github-readme-stats-indol-eight.vercel.app/api?username=sljeff&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc)
+![](https://n8n.jeff.wtf/webhook/svg)
 
 </td>
 <td valign="top" width="50%">

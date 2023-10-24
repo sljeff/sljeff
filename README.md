@@ -6,6 +6,7 @@
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
 
+- 🔭 I am currently on a gap year.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 

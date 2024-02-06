@@ -22,11 +22,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Dart       16 mins        ███████▍░░░░░░░░░░░░░  35.4%
-CocoaPods  12 mins        █████▋░░░░░░░░░░░░░░░  27.2%
-XML        8 mins         ███▋░░░░░░░░░░░░░░░░░  17.6%
-Other      7 mins         ███▎░░░░░░░░░░░░░░░░░  15.8%
-YAML       1 min          ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Dart       12 mins        ████████░░░░░░░░░░░░░  38.4%
+CocoaPods  12 mins        ████████░░░░░░░░░░░░░  38.4%
+XML        7 mins         ████▋░░░░░░░░░░░░░░░░  22.1%
+Other      0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Objecti... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 <!-- waka-box end -->
 

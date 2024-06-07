@@ -22,8 +22,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Dart       5 mins         ██████████████▍░░░░░░  68.7%
-Lua        2 mins         ██████▌░░░░░░░░░░░░░░  31.3%
+Python     20 mins        █████████████░░░░░░░░  62.2%
+Dart       5 mins         ███▌░░░░░░░░░░░░░░░░░  16.7%
+Other      4 mins         ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Lua        2 mins         █▌░░░░░░░░░░░░░░░░░░░   7.6%
+XML        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 <!-- waka-box end -->
 

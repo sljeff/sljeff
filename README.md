@@ -22,9 +22,9 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-sshconfig  1 hr 16 mins   █████████████▉░░░░░░░  66.5%
-Dart       31 mins        █████▊░░░░░░░░░░░░░░░  27.4%
-Lua        6 mins         █▎░░░░░░░░░░░░░░░░░░░   6.1%
+sshconfig  1 hr 17 mins   ██████████████░░░░░░░  66.8%
+Dart       31 mins        █████▋░░░░░░░░░░░░░░░  27.2%
+Lua        6 mins         █▎░░░░░░░░░░░░░░░░░░░   6.0%
 ```
 <!-- waka-box end -->
 

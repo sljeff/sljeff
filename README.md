@@ -22,11 +22,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Dart       17 hrs 25 mins ██████████████████▋░░  89.1%
-Python     1 hr           █░░░░░░░░░░░░░░░░░░░░   5.2%
-YAML       15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Docker     15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Git Config 13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Dart       22 hrs 22 mins ███████████████████░░  91.0%
+Python     1 hr           ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+YAML       16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Docker     15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Git Config 13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 <!-- waka-box end -->
 

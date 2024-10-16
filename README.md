@@ -6,7 +6,7 @@
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
 
-- 🔭 I am currently on a gap year.
+- 🔭 I am currently on a gap year and making my side project [Anycast+](https://anycast.website).
 - I used to work at [shanbay](https://www.shanbay.com) (2017.6-2022.2) and [RSS3](https://rss3.io/) (2022.3-2023.10)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)

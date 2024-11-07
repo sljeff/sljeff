@@ -6,8 +6,9 @@
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
 
-- 🔭 I am currently on a gap year and making my side project [Anycast+](https://anycast.website).
-- I used to work at [shanbay](https://www.shanbay.com) (2017.6-2022.2) and [RSS3](https://rss3.io/) (2022.3-2023.10)
+- I used to work at [shanbay](https://www.shanbay.com) (2017.6 - 2022.2) and [RSS3](https://rss3.io/) (2022.3 - 2023.10)
+- After leaving RSS3, I had a gap year during which I worked on a side project [Anycast+](https://anycast.website) (2023.10 - 2024.10).
+- I am currently working at Reflex AI Limited (2024.10 - now).
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 
@@ -59,6 +60,7 @@ Bash       5 mins         ░░░░░░░░░░░░░░░░░░
 
 [![](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-FLUTTER-042B59?style=for-the-badge&logo=flutter&logoColor=1CDAC5)](https://flutter.dev/)
 
 </td>
 </tr>

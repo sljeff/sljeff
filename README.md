@@ -57,6 +57,7 @@ Bash       5 mins         ░░░░░░░░░░░░░░░░░░
 
 [![](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-FLUTTER-042B59?style=for-the-badge&logo=flutter&logoColor=1CDAC5)](https://flutter.dev/)
 
 </td>
 </tr>

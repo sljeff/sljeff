@@ -21,11 +21,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go         11 hrs 26 mins █████████████████▌░░░  83.9%
-YAML       37 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-Markdown   30 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Dart       25 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Makefile   9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Go         12 hrs 7 mins  █████████████████▉░░░  85.6%
+YAML       37 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Markdown   30 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Dart       25 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Makefile   9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 <!-- waka-box end -->
 

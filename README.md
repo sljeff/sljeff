@@ -21,7 +21,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go         10 hrs 10 mins █████████████████▎░░░  82.6%
+Go         10 hrs 4 mins  █████████████████▎░░░  82.5%
 Dart       34 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
 Markdown   32 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
 Python     30 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%

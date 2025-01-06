@@ -7,8 +7,8 @@
 ![](http://www.nyan.cat/cats/jazz.gif)
 
 - I used to work at [shanbay](https://www.shanbay.com) (2017.6 - 2022.2) and [RSS3](https://rss3.io/) (2022.3 - 2023.10)
-- After leaving RSS3, I had a gap year during which I worked on a side project [Anycast](https://anycast.website) (2023.10 - 2024.10).
-- I am currently working at [Reflex AI Limited](https://www.reflex.club/) (2024.10 - now).
+- After leaving RSS3, I had a gap year during which I worked on a side project [Anycast](https://anycast.website) (2023.10 - 2024.10)
+- I am currently working at [Reflex AI Limited](https://www.reflex.club/) (2024.10 - now)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
 

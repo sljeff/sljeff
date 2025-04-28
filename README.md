@@ -22,11 +22,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Vue.js     22 mins        █████████████▊░░░░░░░  65.5%
-JavaScript 5 mins         ███▌░░░░░░░░░░░░░░░░░  17.0%
-Go         4 mins         ██▊░░░░░░░░░░░░░░░░░░  13.3%
-JSON       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Rust       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Vue.js     12 mins        ██████████████▉░░░░░░  70.9%
+Go         4 mins         █████▍░░░░░░░░░░░░░░░  25.9%
+JSON       0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+JavaScript 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 <!-- waka-box end -->
 

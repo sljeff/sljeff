@@ -7,7 +7,8 @@
 ![](http://www.nyan.cat/cats/dub.gif)
 ![](http://www.nyan.cat/cats/jazz.gif)
 
-- I used to work at [shanbay](https://www.shanbay.com) (2017.6 - 2022.2) and [RSS3](https://rss3.io/) (2022.3 - 2023.10)
+- I used to work at [shanbay](https://www.shanbay.com) (2017.6 - 2022.2)
+- [RSS3](https://rss3.io/) (2022.3 - 2023.10)
 - After leaving RSS3, I had a gap year during which I worked on a side project [Anycast](https://anycast.website) (2023.10 - 2024.10)
 - [Reflex AI Limited](https://www.sekai.so/) (2024.10 - 2025.4)
 - I am currently working at **** (2025.5 - now)

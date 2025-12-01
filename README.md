@@ -19,7 +19,7 @@
 <tr>
 <td valign="top" width="50%">
 
-![](https://n8n.jeff.wtf/webhook/svg)
+![](https://pub-0a5d8f4f681d434f9f0a3b79fe777ede.r2.dev/github-stats.svg)
 
 </td>
 <td valign="top" width="50%">

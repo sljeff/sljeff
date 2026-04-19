@@ -27,11 +27,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Other      5 hrs 21 mins  ███████████████▏░░░░░  72.3%
-YAML       51 mins        ██▍░░░░░░░░░░░░░░░░░░  11.6%
-Markdown   41 mins        █▉░░░░░░░░░░░░░░░░░░░   9.3%
-Text       16 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-JSON       10 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Other      6 hrs 9 mins   █████████▎░░░░░░░░░░░  44.6%
+Markdown   3 hrs 45 mins  █████▋░░░░░░░░░░░░░░░  27.3%
+YAML       1 hr 38 mins   ██▍░░░░░░░░░░░░░░░░░░  11.9%
+Text       1 hr 15 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
+JSON       29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 <!-- waka-box end -->
 

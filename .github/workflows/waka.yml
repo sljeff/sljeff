@@ -2,9 +2,10 @@ name: Update wakatime stats
 
 on:
   push:
-    branches: [master]
+    branches: [master, fix-wakatime-direct-readme]
   pull_request:
     branches: [master]
+  workflow_dispatch:
   schedule:
     - cron: "5 0 * * *"
 
@@ -13,20 +14,17 @@ jobs:
     name: Update-waka-stats
     runs-on: ubuntu-latest
     env:
-      GH_USER: sljeff
       README: README.md
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: 71273c536e134e0906f5d6a7f47795ca
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
     steps:
       - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Update gist
-        uses: matchai/waka-box@master
-      - uses: actions/setup-python@v4
+        uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: 3.10.6
+          python-version: "3.12"
+      - name: Run tests
+        run: python -m unittest test_update_readme.py
       - name: Edit README
         run: |
           python update_readme.py

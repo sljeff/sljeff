@@ -25,13 +25,13 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/71273c536e134e0906f5d6a7f47795ca" target="_blank">📊 Weekly development breakdown</a>
+#### 📊 Weekly development breakdown
 ```text
-Other      5 hrs 16 mins  ████▎░░░░░░░░░░░░░░░░  20.4%
-YAML       5 hrs 13 mins  ████▏░░░░░░░░░░░░░░░░  20.2%
-Markdown   5 hrs 3 mins   ████░░░░░░░░░░░░░░░░░  19.6%
-Rust       3 hrs 12 mins  ██▌░░░░░░░░░░░░░░░░░░  12.4%
-Text       3 hrs 8 mins   ██▌░░░░░░░░░░░░░░░░░░  12.2%
+Other      6 hrs 20 mins  ████▋░░░░░░░░░░░░░░░░  22.1%
+YAML       5 hrs 35 mins  ████░░░░░░░░░░░░░░░░░  19.5%
+Markdown   5 hrs 29 mins  ████░░░░░░░░░░░░░░░░░  19.1%
+Rust       4 hrs 20 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
+Text       3 hrs 13 mins  ██▎░░░░░░░░░░░░░░░░░░  11.2%
 ```
 <!-- waka-box end -->
 

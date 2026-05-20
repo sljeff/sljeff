@@ -27,11 +27,11 @@
 <!-- waka-box start -->
 #### 📊 Weekly development breakdown
 ```text
-Other      6 hrs 20 mins  ████▋░░░░░░░░░░░░░░░░  22.1%
-YAML       5 hrs 35 mins  ████░░░░░░░░░░░░░░░░░  19.5%
-Markdown   5 hrs 29 mins  ████░░░░░░░░░░░░░░░░░  19.1%
-Rust       4 hrs 20 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
-Text       3 hrs 13 mins  ██▎░░░░░░░░░░░░░░░░░░  11.2%
+Other      5 hrs 50 mins  █████▏░░░░░░░░░░░░░░░  24.8%
+Rust       4 hrs 20 mins  ███▉░░░░░░░░░░░░░░░░░  18.5%
+Markdown   4 hrs 17 mins  ███▊░░░░░░░░░░░░░░░░░  18.2%
+YAML       3 hrs 19 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+Text       2 hrs 11 mins  █▉░░░░░░░░░░░░░░░░░░░   9.3%
 ```
 <!-- waka-box end -->
 

@@ -27,11 +27,11 @@
 <!-- waka-box start -->
 #### 📊 Weekly development breakdown
 ```text
-TypeScript 10 hrs 2 mins  ████████▎░░░░░░░░░░░░  39.7%
-Markdown   6 hrs 44 mins  █████▌░░░░░░░░░░░░░░░  26.6%
-JSON       3 hrs 2 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
-Other      1 hr 59 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
-Text       54 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+TypeScript 8 hrs 52 mins  ███████▊░░░░░░░░░░░░░  37.1%
+Markdown   5 hrs 54 mins  █████▏░░░░░░░░░░░░░░░  24.7%
+Other      3 hrs 3 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
+JSON       2 hrs 41 mins  ██▎░░░░░░░░░░░░░░░░░░  11.2%
+JavaScript 59 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 <!-- waka-box end -->
 

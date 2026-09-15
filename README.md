@@ -27,11 +27,11 @@
 <!-- waka-box start -->
 #### 📊 Weekly development breakdown
 ```text
-YAML       4 hrs 33 mins  █████▏░░░░░░░░░░░░░░░  24.9%
-TypeScript 3 hrs 48 mins  ████▎░░░░░░░░░░░░░░░░  20.8%
-Other      3 hrs 25 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
-Text       2 hrs 27 mins  ██▊░░░░░░░░░░░░░░░░░░  13.4%
-Markdown   1 hr 33 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Other      10 hrs 45 mins █████████▋░░░░░░░░░░░  46.0%
+YAML       3 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░  14.9%
+Text       3 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░  14.3%
+TypeScript 2 hrs 40 mins  ██▍░░░░░░░░░░░░░░░░░░  11.4%
+Markdown   1 hr 45 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
 ```
 <!-- waka-box end -->
 

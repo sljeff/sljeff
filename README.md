@@ -22,11 +22,7 @@
 <!-- waka-box start -->
 #### 📊 Weekly development breakdown
 ```text
-Markdown   1 hr 3 mins    ███████▊░░░░░░░░░░░░░  37.2%
-Bash       30 mins        ███▊░░░░░░░░░░░░░░░░░  18.0%
-Vue        20 mins        ██▌░░░░░░░░░░░░░░░░░░  12.0%
-Image (... 19 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
-Other      10 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+No WakaTime data for the last 7 days.
 ```
 <!-- waka-box end -->
 

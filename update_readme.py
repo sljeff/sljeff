@@ -6,7 +6,9 @@ import urllib.request
 
 START_FLAG = "<!-- waka-box start -->"
 END_FLAG = "<!-- waka-box end -->"
-WAKATIME_STATS_URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+# 非 15（默认值）的 timeout 会让 WakaTime 现算而不是读预聚合缓存；
+# 补传的离线心跳不会触发缓存重算，默认查询可能拿到过期数据。
+WAKATIME_STATS_URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days?timeout=14"
 
 
 def trim_right(value, width):

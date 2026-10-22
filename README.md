@@ -22,7 +22,11 @@
 <!-- waka-box start -->
 #### 📊 Weekly development breakdown
 ```text
-No WakaTime data for the last 7 days.
+JavaScript 17 hrs 2 mins  █████████░░░░░░░░░░░░  43.4%
+Markdown   7 hrs 20 mins  ███▉░░░░░░░░░░░░░░░░░  18.7%
+Swift      4 hrs 42 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
+Image (... 3 hrs 30 mins  █▉░░░░░░░░░░░░░░░░░░░   8.9%
+Other      3 hrs          █▌░░░░░░░░░░░░░░░░░░░   7.6%
 ```
 <!-- waka-box end -->
 

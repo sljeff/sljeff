@@ -1,5 +1,8 @@
+import io
+import json
 import sys
 import unittest
+import urllib.error
 from unittest import mock
 
 
@@ -55,6 +58,57 @@ old content
         self.assertIn("<!-- waka-box start -->\nnew content\n<!-- waka-box end -->", updated)
         self.assertIn("</td>", updated)
         self.assertNotIn("old content", updated)
+
+    def _mock_response(self, payload):
+        return io.BytesIO(json.dumps(payload).encode())
+
+    def test_fetch_wakatime_stats_uses_bearer_without_fallback_on_success(self):
+        import update_readme
+
+        auth_headers = []
+
+        def fake_urlopen(request, timeout=None):
+            auth_headers.append(request.get_header("Authorization"))
+            return self._mock_response({"data": {"languages": []}})
+
+        with mock.patch("urllib.request.urlopen", side_effect=fake_urlopen):
+            stats = update_readme.fetch_wakatime_stats("oauth-token")
+
+        self.assertEqual(stats, {"data": {"languages": []}})
+        self.assertEqual(auth_headers, ["Bearer oauth-token"])
+
+    def test_fetch_wakatime_stats_falls_back_to_basic_on_401(self):
+        import update_readme
+
+        auth_headers = []
+
+        def fake_urlopen(request, timeout=None):
+            auth_headers.append(request.get_header("Authorization"))
+            if len(auth_headers) == 1:
+                raise urllib.error.HTTPError(
+                    request.full_url, 401, "UNAUTHORIZED", None, None
+                )
+            return self._mock_response({"data": {"languages": []}})
+
+        with mock.patch("urllib.request.urlopen", side_effect=fake_urlopen):
+            stats = update_readme.fetch_wakatime_stats("api-key")
+
+        self.assertEqual(stats, {"data": {"languages": []}})
+        self.assertEqual(len(auth_headers), 2)
+        self.assertTrue(auth_headers[0].startswith("Bearer "))
+        self.assertTrue(auth_headers[1].startswith("Basic "))
+
+    def test_fetch_wakatime_stats_raises_when_both_auth_methods_rejected(self):
+        import update_readme
+
+        with mock.patch(
+            "urllib.request.urlopen",
+            side_effect=urllib.error.HTTPError(
+                "https://example.com", 401, "UNAUTHORIZED", None, None
+            ),
+        ):
+            with self.assertRaises(urllib.error.HTTPError):
+                update_readme.fetch_wakatime_stats("bad-token")
 
 
 if __name__ == "__main__":

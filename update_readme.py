@@ -70,13 +70,22 @@ def fetch_wakatime_stats(api_key):
     if not api_key:
         raise ValueError("WAKATIME_API_KEY is required")
 
+    # OAuth tokens authenticate with Bearer; API keys only work with Basic.
     token = base64.b64encode(api_key.encode()).decode()
-    request = urllib.request.Request(
-        WAKATIME_STATS_URL,
-        headers={"Authorization": f"Basic {token}"},
-    )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.loads(response.read().decode())
+    last_error = None
+    for auth in (f"Bearer {api_key}", f"Basic {token}"):
+        request = urllib.request.Request(
+            WAKATIME_STATS_URL,
+            headers={"Authorization": auth},
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.loads(response.read().decode())
+        except urllib.error.HTTPError as error:
+            if error.code != 401:
+                raise
+            last_error = error
+    raise last_error
 
 
 def main():

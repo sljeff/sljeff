@@ -22,11 +22,11 @@
 <!-- waka-box start -->
 #### 📊 Weekly development breakdown
 ```text
-JavaScript 17 hrs 24 mins ████████▉░░░░░░░░░░░░  42.3%
-Markdown   7 hrs 53 mins  ████░░░░░░░░░░░░░░░░░  19.2%
-Swift      5 hrs 45 mins  ██▉░░░░░░░░░░░░░░░░░░  14.0%
-Image (... 3 hrs 35 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
-Other      2 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
+JavaScript 20 hrs 26 mins █████████░░░░░░░░░░░░  43.3%
+Markdown   8 hrs 32 mins  ███▊░░░░░░░░░░░░░░░░░  18.1%
+Swift      6 hrs 14 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+Image (... 3 hrs 55 mins  █▋░░░░░░░░░░░░░░░░░░░   8.3%
+Other      2 hrs 6 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 <!-- waka-box end -->
 
